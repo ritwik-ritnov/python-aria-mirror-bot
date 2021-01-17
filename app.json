@@ -77,21 +77,6 @@
         "value": "",
         "required": false
       },
-      "MEGA_API_KEY": {
-        "description": "To authenticate Mega.",
-        "value": "",
-        "required": false
-      },
-      "MEGA_EMAIL_ID": {
-        "description": "Mega Email.",
-        "value": "",
-        "required": false
-      },
-      "MEGA_PASSWORD": {
-        "description": "Mega Password.",
-        "value": "",
-        "required": false
-      },
       "USER_SESSION_STRING": {
         "description": "Open this link to generate session string ==> https://string-session.sonywegas.repl.run",
         "value": "",
